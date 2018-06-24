@@ -89,5 +89,6 @@ cacheSolve <- function(makeCacheMatrix_object, ...) {
     #
     # Return the new_inv_matrix
     #
-    new_inv_matrix    
+    new_inv_matrix   
+    #
 }
